@@ -1,0 +1,565 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+    margin: 0;
+}
+.links {
+    align-items: center;
+}
+.rr{
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: blue;
+    display: in;
+    padding: 2px 10px ;
+    color: white;
+    border-color: blue;
+    
+}
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    background-color: white;
+    height: 50px;
+    font-size: 20px;
+    
+}
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    
+}
+.nav-links div {
+    display: flex;
+    gap: 30px;
+    margin-right: 20px;
+
+}
+.nav-links a:hover{
+    color: blue;
+}
+#essence{
+    display: flex;
+    padding-left: 0px;
+    background-color: #ecf3fd;
+}
+#essence .ll {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 8px 15px;
+    background-color: lightblue;
+    margin: 0px;
+    font-size: 15px;
+}
+
+#essence .ll p {
+    margin: 0;
+}
+#essence .s{
+    border: 2px solid ;
+    border-radius: 10px;
+    border-color: blue;
+    background-color: blue;
+    padding: 5px 10px;
+}
+#hero {
+    width: 45%;
+    padding: 50px 50px 50px 50px;
+}
+.imag{
+    margin-left: auto;
+    width: 55%;
+    height: 300px;
+    margin-top: 30px;
+}
+.imag img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 30px;
+    
+}
+#essence .lol{
+    font-family: sans-serif;
+    font-size: 50px;
+    color: black;
+    padding-bottom: 10px;
+    margin: 20px 0px 20px 0px;
+}
+#essence .lli{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    margin: 0px 0px 20px 0px ;
+}
+#essence .s a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+#essence .soo{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+#essence .ss a{
+    color: blue;
+    border-color: white;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 5px 10px;  
+    font-size: 15px;
+}
+
+.con {
+    color: blue;
+}
+.ol {
+    color: blue;
+}
+
+
+.sec2 {
+    text-align: center;
+    margin: 20px 0px -10px 0px;
+    color: blue;
+    font-size: 20px;
+    font-weight: 8000;
+    margin-bottom: -30px;
+}
+.sk {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 10000;
+}
+.hz {
+    border: 1px solid lightblue;
+    border-radius: 20px ;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
+.hz h5 {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.hx {
+    border: 1px solid lightblue;
+    border-radius: 20px ;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
+.hx h5 {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.hc {
+    border: 1px solid lightblue;
+    border-radius: 20px ;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
+.hc h5 {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.hv {
+    border: 1px lightblue;
+    border-radius: 20px ;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    border-style: double;
+}
+.hv h5 {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.h {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 20px;
+}
+.imc {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin-bottom: -20px;
+}
+.imb {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin-bottom: -20px;
+}
+.img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin-bottom: -20px;
+}
+.imi {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin-bottom: -20px;
+}
+#hsj {
+    background-color: #f9fafc;
+}
+.ann {
+    display: flex;
+    align-items: center;
+    width: 93%;
+    margin: auto;
+    
+}
+.skl {
+    width: 50%;
+    padding: 20px 40px;
+    font-size: 15px;
+}
+.skl h5 {
+    margin-bottom: -10px;
+}
+.sks {
+    width: 50%;
+    height: 300px;
+}
+.sks img {
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+    display: block;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+.skl h5 {
+    color: blue;
+}
+.pp {
+    border: 2px solid;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+.pp a {
+    text-decoration: none;
+    color: white;
+}
+.p {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    color: white;
+}
+.ps a {
+    text-decoration: none;
+    color: white;
+}
+.pa h4{
+    font-size: 20px;
+    color: white;
+}
+.ps h4{
+    font-size: 20px;
+    color: white;
+}
+.pd h4{
+    font-size: 20px;
+    color: white;
+}
+.pf h4{
+    font-size: 20px;
+    color: white;
+}
+.pai {
+    color: blue;
+}
+.email {
+    display: flex;
+    gap: 10px;
+}
+
+.email input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.email button {
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+#last {
+    background-color: #162230;
+}
+.copyright {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 900px) {
+    .nav-links {
+        width: 100%;
+        padding: 15px 30px;
+        margin-right: 0;
+    }
+
+    .nav-links div {
+        gap: 15px;
+        margin-right: 0;
+    }
+    #essence {
+        width: 100%;
+        flex-direction: column;
+        padding: 40px 30px;
+    }
+
+    #hero {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .imag {
+        width: 100%;
+        height: 300px;
+        margin: 0;
+    }
+    .h {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 0 20px;
+    }
+
+    .hz,
+    .hx,
+    .hc,
+    .hv {
+        width: calc(50% - 10px);
+    }
+    .ann {
+        width: 90%;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .sks,
+    .skl {
+        width: 100%;
+    }
+    .p {
+        width: 90%;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    
+    .nav-links {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        padding: 20px;
+        gap: 15px;
+        margin-right: 0;
+    }
+
+    .nav-links div {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-right: 0;
+    }
+
+
+    
+    #essence {
+        width: 100%;
+        flex-direction: column;
+        padding: 30px 20px;
+        gap: 25px;
+    }
+
+    #hero {
+        width: 100%;
+        padding: 20px 10px;
+        text-align: center;
+    }
+
+    #essence .lol {
+        font-size: 36px;
+    }
+
+    #essence .lli {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    #essence .lli br {
+        display: none;
+    }
+
+    #essence .soo {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .imag {
+        width: 100%;
+        height: 230px;
+        margin: 0;
+    }
+
+    .imag img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+
+    
+    .h {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 0 20px;
+    }
+
+    .hz,
+    .hx,
+    .hc,
+    .hv {
+        width: 100%;
+        max-width: 350px;
+        height: auto;
+        min-height: 200px;
+    }
+
+
+    
+    #hsj {
+        width: 100%;
+        padding: 40px 20px;
+    }
+
+    .ann {
+        width: 100%;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .sks,
+    .skl {
+        width: 100%;
+    }
+
+    .sks {
+        height: 250px;
+    }
+
+    .sks img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .skl {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .skl p br {
+        display: none;
+    }
+
+    #last {
+        width: 100%;
+        padding: 40px 20px 20px;
+    }
+
+    .p {
+        width: 100%;
+        flex-direction: column;
+        gap: 30px;
+        text-align: center;
+    }
+
+    .pa,
+    .ps,
+    .pd,
+    .pf {
+        width: 100%;
+    }
+
+    .email {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .email input,
+    .email button {
+        width: 100%;
+        max-width: 300px;
+    }
+}
