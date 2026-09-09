@@ -4,9 +4,15 @@ Web Development internship projects completed as part of the Codveda internship 
 
 ## Progress
 
-### Level 1 — Basic
+### Level 1 
 - [x] Task 1 — Simple Static Website
-- [ ] Task 2 — Portfolio Webpage
+- [x] Task 2 — Portfolio Webpage
 - [ ] Task 3 — Introduction to JavaScript
 
-More completed tasks will be added to this repository as the internship progresses.
+## Level 2
+
+- [x] Task 1 — Web design with flexbox and Grid
+- [ ] Task 2 — Build a To-Do List App with JavaScript
+- [ ] Task 3 — Introduction to Front-End Frameworks (React or Vue)
+
+
