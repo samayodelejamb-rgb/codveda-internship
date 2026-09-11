@@ -13,6 +13,6 @@ Web Development internship projects completed as part of the Codveda internship 
 
 - [x] Task 1 — Web design with flexbox and Grid
 - [ ] Task 2 — Build a To-Do List App with JavaScript
-- [ ] Task 3 — Introduction to Front-End Frameworks (React or Vue)
+- [x] Task 3 — Introduction to Front-End Frameworks (React or Vue)
 
 
